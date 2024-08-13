@@ -128,9 +128,6 @@ The progress of the ETL process is logged in `code_log.txt`. This file will incl
 - **Permission Issues**: Run the script with the necessary permissions or adjust file permissions as needed.
 - **Dependencies**: Ensure all required libraries are installed.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
