@@ -128,14 +128,3 @@ The progress of the ETL process is logged in `code_log.txt`. This file will incl
 - **Permission Issues**: Run the script with the necessary permissions or adjust file permissions as needed.
 - **Dependencies**: Ensure all required libraries are installed.
 
-
-## Contact
-
-For any issues or inquiries, please contact:
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-
----
-
-Feel free to adjust the content to better fit your needs or to include any additional information relevant to your project.
