@@ -1,8 +1,6 @@
 # Acquiring-and-processing-information-on-world-s-largest-banks
 Acquiring and processing information on world's largest banks
 
-Here is an industry-grade README file for your data engineering project. This README will provide a comprehensive overview of the project, including setup instructions, usage, and other essential details.
-
 ---
 
 # README: Largest Banks Data Engineering Project
@@ -20,7 +18,7 @@ This project involves creating an automated system to extract, transform, and lo
 
 ## Prerequisites
 
-Ensure you have the following libraries installed:
+Libraries installed:
 
 - `requests`
 - `beautifulsoup4`
@@ -29,7 +27,7 @@ Ensure you have the following libraries installed:
 - `sqlite3` (part of the Python standard library)
 - `datetime`
 
-You can install the required libraries using pip:
+Install the required libraries using pip:
 
 ```bash
 pip install requests beautifulsoup4 pandas numpy
